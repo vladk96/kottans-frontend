@@ -1,6 +1,6 @@
 # kottans-frontend
 
-##Git Basics
+## Git Basics
 
 I have already known basic commands of Git, but I still passed this course again. I also completed the course [Learn Git Branches](https://learngitbranching.js.org/).
 In this course I learned a new command 'Cherry-pick' and other tricks with git branches. So, each course was interesting and useful. Thanks a lot.
