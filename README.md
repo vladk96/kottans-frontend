@@ -17,3 +17,9 @@ I also read two articles about protocol HTTP.
 
 ![Screenshot5](task_linux_cli/cli-1.png)
 
+## Git Collaboration
+
+In this task I passed two courses about Git. I have analyzed the main Git commands. Now I began to undestand Git better.
+
+![Screenshot6](task_git_collaboration/collaboration1.png)
+![Screenshot7](task_git_collaboration/collaboration2.png)
