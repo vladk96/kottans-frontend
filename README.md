@@ -23,3 +23,12 @@ In this task I passed two courses about Git. I have analyzed the main Git comman
 
 ![Screenshot6](task_git_collaboration/collaboration1.png)
 ![Screenshot7](task_git_collaboration/collaboration2.png)
+
+## Front-End Basics
+
+## Intro to HTML & CSS
+
+I have already known HTML5 and CSS3, but I passed this two courses again to increase my knowledge.
+
+![Screenshot8](task_html_css_intro/html-1.png)
+![Screenshot9](task_html_css_intro/html_css.png)
