@@ -32,3 +32,10 @@ I have already known HTML5 and CSS3, but I passed this two courses again to incr
 
 ![Screenshot8](task_html_css_intro/html-1.png)
 ![Screenshot9](task_html_css_intro/html_css.png)
+
+## Responsive Web Design
+
+In this task I passed two courses about responsive web design. I also read arcticle about [Flexbox](https://hackernoon.com/11-things-i-learned-reading-the-flexbox-spec-5f0c799c776b).
+
+![Screenshot8](task_responsive_web_design/responsive.png)
+![Screenshot9](task_responsive_web_design/flex.png)
