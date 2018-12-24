@@ -39,3 +39,10 @@ In this task I passed two courses about responsive web design. I also read arcti
 
 ![Screenshot8](task_responsive_web_design/responsive.png)
 ![Screenshot9](task_responsive_web_design/flex.png)
+
+## JS Basics
+
+I passed two courses about JavaScript. The second subtask was very interting for me. All exersices was useful.
+
+![Screenshot8](task_js_basics/js-intro.png)
+![Screenshot9](task_js_basics/algorithm.png)
