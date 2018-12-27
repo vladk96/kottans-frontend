@@ -46,3 +46,10 @@ I passed two courses about JavaScript. The second subtask was very interting for
 
 ![Screenshot8](task_js_basics/js-intro.png)
 ![Screenshot9](task_js_basics/algorithm.png)
+
+## DOM
+
+I passed course 'JavaScript and the DOM'. A also did all the algorithm tasks. I really liked this part of the course.
+
+![Screenshot8](task_js_dom/dom.png)
+![Screenshot9](task_js_dom/dom2.png)
