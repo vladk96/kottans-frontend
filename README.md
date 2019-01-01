@@ -53,3 +53,19 @@ I passed course 'JavaScript and the DOM'. A also did all the algorithm tasks. I 
 
 ![Screenshot8](task_js_dom/dom.png)
 ![Screenshot9](task_js_dom/dom2.png)
+
+[Demo](https://vladk96.github.io/js-dom/) | [Code base](https://github.com/vladk96/js-dom)
+
+## Advanced Topics
+
+## A Tiny JS World
+
+[Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-js-world/submissions/vladk96/a-tiny-js-world/index.js).
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
+
+## Object Oriented JS
+
+I this task I passed course about OOP and reached 7 kyu in codewars. Codewars tasks were more difficult than Freecodecamp, but I solved it with pleasure.
+
+![Screenshot8](task_js_oop/oop.png)
+![Screenshot8](task_js_oop/codewars.png)
