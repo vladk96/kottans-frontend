@@ -8,7 +8,7 @@ Reviewed and approved by [@yevhenorlov](https://github.com/yevhenorlov) and [@Ig
 [Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-js-world/submissions/vladk96/a-tiny-js-world/index.js).
 Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 #### Object Oriented JS
-[Demo](https://vladk96.github.io/frogger-game/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/frogger-game/submissions/vladk96/frogger-game/js/app.js).
+[Demo](https://vladk96.github.io/frogger-game/) | [Code base](https://github.com/vladk96/frogger-game/blob/master/js/app.js).
 Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 #### OOP exercise
 [Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-oop-task/submissions/vladk96/a-tiny-js-world-oop/index.js).
