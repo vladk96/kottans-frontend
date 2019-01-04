@@ -1,5 +1,22 @@
 # kottans-frontend
 
+## Practical tasks
+#### DOM
+[Demo](https://vladk96.github.io/js-dom/) | [Code base](https://github.com/vladk96/js-dom).
+Reviewed and approved by [@yevhenorlov](https://github.com/yevhenorlov) and [@IgorKurkov](https://github.com/IgorKurkov)
+#### A Tiny JS World
+[Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-js-world/submissions/vladk96/a-tiny-js-world/index.js).
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
+#### Object Oriented JS
+[Demo](https://vladk96.github.io/frogger-game/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/frogger-game/submissions/vladk96/frogger-game/js/app.js).
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
+#### OOP exercise
+[Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-oop-task/submissions/vladk96/a-tiny-js-world-oop/index.js).
+ Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
+#### Memory pair game
+[Demo](https://vladk96.github.io/memory-pair-game/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/memory-game/submissions/vladk96/memory-pair-game)
+
+## Theoretical tasks
 ## Git Basics
 
 I have already known basic commands of Git, but I still passed this course again. I also completed the course [Learn Git Branches](https://learngitbranching.js.org/).
@@ -54,14 +71,7 @@ I passed course 'JavaScript and the DOM'. A also did all the algorithm tasks. I 
 ![Screenshot8](task_js_dom/dom.png)
 ![Screenshot9](task_js_dom/dom2.png)
 
-[Demo](https://vladk96.github.io/js-dom/) | [Code base](https://github.com/vladk96/js-dom)
-
 ## Advanced Topics
-
-## A Tiny JS World
-
-[Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-js-world/submissions/vladk96/a-tiny-js-world/index.js).
-Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 
 ## Object Oriented JS
 
