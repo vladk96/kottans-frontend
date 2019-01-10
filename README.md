@@ -12,9 +12,13 @@ Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 #### OOP exercise
 [Demo](https://vladk96.github.io/a-tiny-JS-world/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/blob/a-tiny-oop-task/submissions/vladk96/a-tiny-js-world-oop/index.js).
- Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
+Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 #### Memory pair game
-[Demo](https://vladk96.github.io/memory-pair-game/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/memory-game/submissions/vladk96/memory-pair-game)
+[Demo](https://vladk96.github.io/memory-pair-game/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/memory-game/submissions/vladk96/memory-pair-game).
+Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
+#### Friends App
+[Demo](https://vladk96.github.io/friends-app/) |
+[Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/friend-app/submissions/vladk96/friends-app).
 
 ## Theoretical tasks
 ## Git Basics
