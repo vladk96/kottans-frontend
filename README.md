@@ -17,9 +17,8 @@ Reviewed and approved by [@OleksiyRudenko](https://github.com/OleksiyRudenko)
 [Demo](https://vladk96.github.io/memory-pair-game/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/memory-game/submissions/vladk96/memory-pair-game).
 Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
 #### Friends App
-[Demo](https://vladk96.github.io/friends-app/) |
-[Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/friend-app/submissions/vladk96/friends-app).
-
+[Demo](https://vladk96.github.io/friends-app/) | [Code base](https://github.com/vladk96/frontend-2019-homeworks/tree/friend-app/submissions/vladk96/friends-app).
+Reviewed and approved by [@zonzujiro](https://github.com/zonzujiro)
 ## Theoretical tasks
 ## Git Basics
 
